@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "324944083560",
+    "project_id": "loginfirebaseapp-dcb40",
+    "storage_bucket": "loginfirebaseapp-dcb40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324944083560:android:ceda0cdd0760e50ee259dd",
+        "android_client_info": {
+          "package_name": "com.example.firebaseloginotpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324944083560-m158vaf5v1cj7vkiakk6hffv3st76e06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseloginotpapp",
+            "certificate_hash": "aafd7ca892c0005ff1dc360a7173ae31d66e26a1"
+          }
+        },
+        {
+          "client_id": "324944083560-8qblv9iku2l7onigc25lontv12htortu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN0xMKqc5BsxmFxDB3udWQIjGtP-R2Tas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324944083560-8qblv9iku2l7onigc25lontv12htortu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
